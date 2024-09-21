@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: auto;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.card1{
+    background-color: rgba(0, 0, 255, 0.527);
+}
+
+.card2{
+    background-color: rgba(186, 130, 238, 0.76);
+}
+
+.card3{
+    background-color: brown;
+}
